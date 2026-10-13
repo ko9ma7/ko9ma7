@@ -56,7 +56,18 @@ VisionFlow Studio는 화면 선택부터 대상 인식, 조건·반복 설정, �
 직접 만든 **공개 원본 저장소** 중 Star가 많은 프로젝트를 자동으로 소개합니다. Fork와 보관(Archived) 저장소, 그리고 위에서 이미 소개한 VisionFlow Studio는 제외합니다.
 
 <!-- TOP_REPOS:START -->
-소개할 공개 원본 저장소가 아직 없습니다. [모든 저장소 보기](https://github.com/ko9ma7?tab=repositories)
+| 프로젝트 | 소개 | ⭐ Stars | 언어 |
+| :-- | :-- | --: | :-- |
+| [**melon_cancel_ticketing_auto**](https://github.com/ko9ma7/melon_cancel_ticketing_auto) | 멜론 취소 티켓팅 자동화 (취켓팅) | **8** | — |
+| [**YoloMacro-Distribution**](https://github.com/ko9ma7/YoloMacro-Distribution) | Official VisionFlow Studio releases, signed activation policies, documentation, and legacy Yolo… | **8** | HTML |
+| [**Navercafe_Auto_comment-EX**](https://github.com/ko9ma7/Navercafe_Auto_comment-EX) | 네이버카페에 댓글을 자동으로 달아주는 매크로 프로그램. | **3** | — |
+| [**Kingshot-Atlas**](https://github.com/ko9ma7/Kingshot-Atlas) | Kingshot Atlas - Kingdom Database | **3** | — |
+| [**FreeFire-Memory-Cheat**](https://github.com/ko9ma7/FreeFire-Memory-Cheat) | External FreeFire memory Cheat | **2** | — |
+| [**11stMacro**](https://github.com/ko9ma7/11stMacro) | 11번가 RTX FE 그래픽 카드를 사기 위한 매크로 입니다 | **1** | — |
+
+<sub>⭐ Star 기준 상위 6개 · Fork/Archived 제외 · VisionFlow Studio는 위에서 별도 소개</sub>
+
+[📂 모든 공개 저장소 보기](https://github.com/ko9ma7?tab=repositories)
 <!-- TOP_REPOS:END -->
 
 <sub>🤖 GitHub Actions · GitHub 공개 API · Star 내림차순 · 매일 갱신 (값이 바뀔 때만 README 커밋)</sub>
