@@ -56,9 +56,7 @@ VisionFlow Studio는 화면 선택부터 대상 인식, 조건·반복 설정, �
 직접 만든 **공개 원본 저장소** 중 Star가 많은 프로젝트를 자동으로 소개합니다. Fork와 보관(Archived) 저장소, 그리고 위에서 이미 소개한 VisionFlow Studio는 제외합니다.
 
 <!-- TOP_REPOS:START -->
-> **최초 등록 안내:** 이 영역은 GitHub Actions가 처음 실행되면 실제 공개 저장소의 Star 수를 기준으로 자동 채워집니다. 이후 매일 한 번 최신 순위를 확인합니다.
-
-[📂 모든 공개 저장소 보기](https://github.com/ko9ma7?tab=repositories)
+소개할 공개 원본 저장소가 아직 없습니다. [모든 저장소 보기](https://github.com/ko9ma7?tab=repositories)
 <!-- TOP_REPOS:END -->
 
 <sub>🤖 GitHub Actions · GitHub 공개 API · Star 내림차순 · 매일 갱신 (값이 바뀔 때만 README 커밋)</sub>

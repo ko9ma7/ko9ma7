@@ -1,0 +1,51 @@
+name: Update most-starred repositories
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Daily 11:17 Korea Standard Time (02:17 UTC).
+    - cron: '17 2 * * *'
+  push:
+    paths:
+      - 'README.md'
+      - 'scripts/update_top_repos.py'
+      - '.github/workflows/update-top-repos.yml'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: update-top-repos
+  cancel-in-progress: false
+
+jobs:
+  update:
+    if: github.repository == 'ko9ma7/ko9ma7'
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Update the most-starred projects
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python scripts/update_top_repos.py
+
+      - name: Commit only when ranking or project details changed
+        run: |
+          if git diff --quiet -- README.md; then
+            echo 'No README change to commit.'
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add README.md
+          git commit -m 'docs: refresh most-starred repositories'
+          git push
