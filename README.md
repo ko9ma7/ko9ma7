@@ -63,7 +63,7 @@ VisionFlow Studio는 화면 선택부터 대상 인식, 조건·반복 설정, �
 | [**Navercafe_Auto_comment-EX**](https://github.com/ko9ma7/Navercafe_Auto_comment-EX) | 네이버카페에 댓글을 자동으로 달아주는 매크로 프로그램. | **3** | — |
 | [**Kingshot-Atlas**](https://github.com/ko9ma7/Kingshot-Atlas) | Kingshot Atlas - Kingdom Database | **3** | — |
 | [**FreeFire-Memory-Cheat**](https://github.com/ko9ma7/FreeFire-Memory-Cheat) | External FreeFire memory Cheat | **2** | — |
-| [**11stMacro**](https://github.com/ko9ma7/11stMacro) | 11번가 RTX FE 그래픽 카드를 사기 위한 매크로 입니다 | **1** | — |
+| [**hayday-bot**](https://github.com/ko9ma7/hayday-bot) | 🌾 #1 Free Hay Day Bot & Auto-Farming Tool for LDPlayer 9. Fully automatic wheat farming, harves… | **2** | — |
 
 <sub>⭐ Star 기준 상위 6개 · Fork/Archived 제외 · VisionFlow Studio는 위에서 별도 소개</sub>
 
