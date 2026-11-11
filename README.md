@@ -58,7 +58,7 @@ VisionFlow Studio는 화면 선택부터 대상 인식, 조건·반복 설정, �
 <!-- TOP_REPOS:START -->
 | 프로젝트 | 소개 | ⭐ Stars | 언어 |
 | :-- | :-- | --: | :-- |
-| [**melon_cancel_ticketing_auto**](https://github.com/ko9ma7/melon_cancel_ticketing_auto) | 멜론 취소 티켓팅 자동화 (취켓팅) | **8** | — |
+| [**melon_cancel_ticketing_auto**](https://github.com/ko9ma7/melon_cancel_ticketing_auto) | 멜론 취소 티켓팅 자동화 (취켓팅) | **9** | — |
 | [**YoloMacro-Distribution**](https://github.com/ko9ma7/YoloMacro-Distribution) | Official VisionFlow Studio releases, signed activation policies, documentation, and legacy Yolo… | **8** | HTML |
 | [**Navercafe_Auto_comment-EX**](https://github.com/ko9ma7/Navercafe_Auto_comment-EX) | 네이버카페에 댓글을 자동으로 달아주는 매크로 프로그램. | **3** | — |
 | [**hayday-bot**](https://github.com/ko9ma7/hayday-bot) | 🌾 #1 Free Hay Day Bot & Auto-Farming Tool for LDPlayer 9. Fully automatic wheat farming, harves… | **3** | — |
